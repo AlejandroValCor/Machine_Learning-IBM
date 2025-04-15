@@ -1,3 +1,3 @@
 # Machine_Learning_-_IBM
 
-Repository focused on the learning course for machine learning from IBM.
+Repository focused on the machine learning IBM learning course, as well as exercises and self projects.
